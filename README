@@ -1,0 +1,9 @@
+This is a collection of some extra gtksourceview version 1.0 and 2.0 language files.
+
+Simply place these files in:
+	ver 1.0:
+		"~/.gnome2/gtksourceview-1.0/language-specs"
+	ver 2.0:
+		"~/.gnome2/gtksourceview-2.0/language-specs"
+	
+	and restart Gedit.

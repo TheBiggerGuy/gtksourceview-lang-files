@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE language SYSTEM "language.dtd">
+<language _name="GOLOG" version="1.0" _section="Scripts" mimetypes="text/x-prolog;application/x-prolog">
+
+	<line-comment _name = "Line Comment" style= "Comment">
+		<start-regex>%</start-regex>
+	</line-comment>
+	
+	<keyword-list _name = "Keywords" style = "Keyword" case-sensitive="TRUE">
+		<keyword>poss</keyword>
+		<keyword>goal</keyword>
+	</keyword-list>
+
+</language>
