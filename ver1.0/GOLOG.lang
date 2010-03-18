@@ -2,6 +2,8 @@
 <!DOCTYPE language SYSTEM "language.dtd">
 <language _name="GOLOG" version="1.0" _section="Scripts" mimetypes="text/x-prolog;application/x-prolog">
 
+	<!--http://github.com/TheBiggerGuy/gtksourceview-lang-files/ #### ver 0.1 -->
+
 	<line-comment _name = "Line Comment" style= "Comment">
 		<start-regex>%</start-regex>
 	</line-comment>
