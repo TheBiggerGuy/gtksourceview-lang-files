@@ -2,7 +2,7 @@
 <!DOCTYPE language SYSTEM "language.dtd">
 <language _name="GOLOG" version="1.0" _section="Scripts" mimetypes="text/x-prolog;application/x-prolog">
 
-	<!--http://github.com/TheBiggerGuy/gtksourceview-lang-files/ #### ver 0.1 -->
+	<!--http://github.com/TheBiggerGuy/gtksourceview-lang-files/ #### ver 0.1.1 -->
 
 	<line-comment _name = "Line Comment" style= "Comment">
 		<start-regex>%</start-regex>
@@ -11,6 +11,9 @@
 	<keyword-list _name = "Keywords" style = "Keyword" case-sensitive="TRUE">
 		<keyword>poss</keyword>
 		<keyword>goal</keyword>
+		<keyword>primitive_action</keyword>
+		<keyword>debug</keyword>
+		<keyword>fluent</keyword>
 	</keyword-list>
 
 </language>
