@@ -3,7 +3,7 @@
 <language _name="GOLOG" version="1.0" _section="Scripts" mimetypes="text/x-prolog;application/x-prolog">
 
 	<!--
-		This is a GoLog syntax file Version 0.1.5
+		This is a GoLog syntax file Version 0.1.6
 		http://github.com/TheBiggerGuy/gtksourceview-lang-files/
 	-->
 	
@@ -24,6 +24,7 @@
 		<keyword>primitive_action</keyword>
 		<keyword>debug</keyword>
 		<keyword>not</keyword>
+		<keyword>result</keyword>
 	</keyword-list>
 
 </language>
