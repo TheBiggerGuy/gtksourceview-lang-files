@@ -2,7 +2,17 @@
 <!DOCTYPE language SYSTEM "language.dtd">
 <language _name="GOLOG" version="1.0" _section="Scripts" mimetypes="text/x-prolog;application/x-prolog">
 
-	<!--http://github.com/TheBiggerGuy/gtksourceview-lang-files/ #### ver 0.1.2 -->
+	<!--
+		This is a GoLog syntax file Version 0.1.5
+		http://github.com/TheBiggerGuy/gtksourceview-lang-files/
+	-->
+	
+	<!--
+		Refrences:
+			* http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=00810185
+			* http://dx.doi.org/10.1016/S0743-1066(96)00121-5
+			* http://www.cs.toronto.edu/cogrobo/Papers/GOLOGlang.ps.gz
+	-->
 
 	<line-comment _name = "Line Comment" style= "Comment">
 		<start-regex>%</start-regex>
